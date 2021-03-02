@@ -25,8 +25,8 @@ The main purpose of this network is to expose a load-balanced and monitored inst
 Load balancing ensures that the application will be highly available, in addition to restricting access to the network. Load balancers protect the availability of IT infrastructure by smartly distributing traffic between servers. Jump-Boxes allow for easy configuration and administration of any number of systems.
 
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the logs and system metrics.
-- Filebeat watches for logs to send to elasticsearch or logstash
-- Metricbeat collects system metrics and sends them to a specified output such as logstash or elasticsearch
+- Filebeat watches for logs to send to Elasticsearch or Logstash
+- Metricbeat collects system metrics and sends them to a specified output such as Logstash or Elasticsearch
 
 The configuration details of each machine may be found below.
 
