@@ -2,12 +2,12 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[ELK Diagram](Images/ELK_Stack_Deployment.png)
+[](Images/ELK_Stack_Deployment.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
-  [ELK Installation](https://github.com/AustinBarrett2282/Elk_Stack_Deployment/blob/main/Ansible/install-elk.yml)
-  [Filebeat & Metricbeat Instllation](https://github.com/AustinBarrett2282/Elk_Stack_Deployment/blob/main/Ansible/filebeat-metricbeat-playbook.yml)
+  - [ELK Installation](https://github.com/AustinBarrett2282/Elk_Stack_Deployment/blob/main/Ansible/install-elk.yml)
+  - [Filebeat & Metricbeat Instllation](https://github.com/AustinBarrett2282/Elk_Stack_Deployment/blob/main/Ansible/filebeat-metricbeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topologies 
