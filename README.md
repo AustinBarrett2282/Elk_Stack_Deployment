@@ -97,4 +97,3 @@ SSH into the control node and follow the steps below:
 
 
 
-I love elle
