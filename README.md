@@ -82,7 +82,7 @@ We have installed the following Beats on these machines:
 
 These Beats allow us to collect the following information from each machine:
 - Filebeat allows us to collect logs from specific log directiores and then forward them to Elasticsearch or Logstash. Any database log would be an example of this
-- Metricbeat collects system information and metrics and also sends then on to a desired output, an example of Metricbeat metrics would be RAM usage 
+- Metricbeat collects system information and metrics and also sends them on to a desired output, an example of Metricbeat metrics would be RAM usage 
 
 ### Using the Playbook
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
